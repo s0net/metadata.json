@@ -29,7 +29,7 @@ This field should be the company or developer name example
 </pre>
 <br>
 
-## 2) Icon
+## 3) Icon
 This is the icon of your page this should be a full url not like ./ , / , ../ it should be the full path like https://www.json.org/img/json160.gif note this can also be a svg file
 <pre>
 {
